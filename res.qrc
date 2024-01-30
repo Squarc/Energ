@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>sirena.mp3</file>
+        <file>Alarm3.wav</file>
+        <file>Siren1.mp3</file>
+        <file>connect0.png</file>
+        <file>connect1.png</file>
+        <file>connect2.png</file>
+        <file>connect3.png</file>
+        <file>connect4.png</file>
+        <file>connect5.png</file>
+    </qresource>
+</RCC>
